@@ -1,0 +1,15 @@
+C:\Users\s00173510\Desktop\FitCal_Project_MK\FitCal_Project_MK\bin\Debug\FitCal_Project_MK.exe.config
+C:\Users\s00173510\Desktop\FitCal_Project_MK\FitCal_Project_MK\bin\Debug\FitCal_Project_MK.exe
+C:\Users\s00173510\Desktop\FitCal_Project_MK\FitCal_Project_MK\bin\Debug\FitCal_Project_MK.pdb
+C:\Users\s00173510\Desktop\FitCal_Project_MK\FitCal_Project_MK\obj\Debug\FitCal_Project_MK.csprojResolveAssemblyReference.cache
+C:\Users\s00173510\Desktop\FitCal_Project_MK\FitCal_Project_MK\obj\Debug\FitCal_Project_MK.exe
+C:\Users\s00173510\Desktop\FitCal_Project_MK\FitCal_Project_MK\obj\Debug\FitCal_Project_MK.pdb
+C:\Users\s00173510\Desktop\PROJECTS C#\FitCal_Project_MK\FitCal_Project_MK\bin\Debug\FitCal_Project_MK.exe.config
+C:\Users\s00173510\Desktop\PROJECTS C#\FitCal_Project_MK\FitCal_Project_MK\obj\Debug\FitCal_Project_MK.exe
+C:\Users\s00173510\Desktop\PROJECTS C#\FitCal_Project_MK\FitCal_Project_MK\obj\Debug\FitCal_Project_MK.pdb
+C:\Users\m\Documents\GitHub\tak\ConsoleApplication\FitCal_Project_MK\FitCal_Project_MK\bin\Debug\FitCal_Project_MK.exe.config
+C:\Users\m\Documents\GitHub\tak\ConsoleApplication\FitCal_Project_MK\FitCal_Project_MK\bin\Debug\FitCal_Project_MK.exe
+C:\Users\m\Documents\GitHub\tak\ConsoleApplication\FitCal_Project_MK\FitCal_Project_MK\bin\Debug\FitCal_Project_MK.pdb
+C:\Users\m\Documents\GitHub\tak\ConsoleApplication\FitCal_Project_MK\FitCal_Project_MK\obj\Debug\FitCal_Project_MK.csprojResolveAssemblyReference.cache
+C:\Users\m\Documents\GitHub\tak\ConsoleApplication\FitCal_Project_MK\FitCal_Project_MK\obj\Debug\FitCal_Project_MK.exe
+C:\Users\m\Documents\GitHub\tak\ConsoleApplication\FitCal_Project_MK\FitCal_Project_MK\obj\Debug\FitCal_Project_MK.pdb
